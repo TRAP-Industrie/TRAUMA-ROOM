@@ -18,6 +18,8 @@ function PlayerCollision(){
 	
 	#endregion
 
+	#region vertical collisions
+
 	if(place_meeting(x,y+vsp,oWall))
 	{
 		while(!place_meeting(x,y+sign(vsp),oWall))
@@ -29,4 +31,7 @@ function PlayerCollision(){
 	{
 		y += vsp;
 	} 
+	
+	#endregion
+	
 }
