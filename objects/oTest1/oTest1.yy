@@ -25,7 +25,7 @@
     "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oTest",
+  "name": "oTest1",
   "tags": [],
   "resourceType": "GMObject",
 }
