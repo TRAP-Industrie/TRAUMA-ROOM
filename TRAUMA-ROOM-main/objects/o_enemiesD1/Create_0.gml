@@ -1,8 +1,11 @@
 // Caractéristiques
 
+obj_Alpha = 0
+obj_Color = c_white
+
 hp = 3;
 is_firing = false;
-frequency = 100;
+frequency = 130;
 
 // Trajectoire
 

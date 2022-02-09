@@ -31,3 +31,14 @@ if (keyboard_check(vk_space))
 		instance_create_layer(x,y, "Instances", o_shootD);
 	}
 }
+
+
+// Hit
+
+if(obj_Alpha > 0) {
+	obj_Alpha -= 0.03
+}
+
+if (hp <= 0) {
+	instance_destroy()
+}

@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"sbackgroundD1","path":"sprites/sbackgroundD1/sbackgroundD1.yy",},"order":3,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"sh_hit","path":"shaders/sh_hit/sh_hit.yy",},"order":0,},
     {"id":{"name":"sTriggerZone","path":"sprites/sTriggerZone/sTriggerZone.yy",},"order":11,},
     {"id":{"name":"sBoulesPapier","path":"sprites/sBoulesPapier/sBoulesPapier.yy",},"order":12,},
     {"id":{"name":"oBoulesPapiers","path":"objects/oBoulesPapiers/oBoulesPapiers.yy",},"order":10,},
@@ -23,7 +24,9 @@
     {"id":{"name":"o_enemiesD1","path":"objects/o_enemiesD1/o_enemiesD1.yy",},"order":6,},
     {"id":{"name":"oCamJeuClasse","path":"objects/oCamJeuClasse/oCamJeuClasse.yy",},"order":9,},
     {"id":{"name":"o_enemiesDP","path":"objects/o_enemiesDP/o_enemiesDP.yy",},"order":5,},
+    {"id":{"name":"time_enemies","path":"timelines/time_enemies/time_enemies.yy",},"order":0,},
     {"id":{"name":"s_PlayerD","path":"sprites/s_PlayerD/s_PlayerD.yy",},"order":6,},
+    {"id":{"name":"o_controller","path":"objects/o_controller/o_controller.yy",},"order":11,},
     {"id":{"name":"rJeuClasse","path":"rooms/rJeuClasse/rJeuClasse.yy",},"order":2,},
     {"id":{"name":"rJeuDrogue","path":"rooms/rJeuDrogue/rJeuDrogue.yy",},"order":1,},
     {"id":{"name":"o_PlayerD","path":"objects/o_PlayerD/o_PlayerD.yy",},"order":2,},
