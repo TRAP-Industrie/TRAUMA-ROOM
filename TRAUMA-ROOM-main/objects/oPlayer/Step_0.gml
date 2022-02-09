@@ -24,7 +24,7 @@ if(room == rRoom)
 	vsp += grav;
 }else if(room == rJeuClasse)
 {
-	vsp = -0.75;
+	vsp = -1.25;
 	hsp = (keyRight - keyLeft) * 32;
 }
 
