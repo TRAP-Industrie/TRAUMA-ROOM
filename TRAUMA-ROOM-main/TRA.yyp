@@ -41,8 +41,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rJeuClasse","path":"rooms/rJeuClasse/rJeuClasse.yy",},},
     {"roomId":{"name":"rJeuDrogue","path":"rooms/rJeuDrogue/rJeuDrogue.yy",},},
+    {"roomId":{"name":"rJeuClasse","path":"rooms/rJeuClasse/rJeuClasse.yy",},},
     {"roomId":{"name":"rRoom","path":"rooms/rRoom/rRoom.yy",},},
   ],
   "Folders": [
