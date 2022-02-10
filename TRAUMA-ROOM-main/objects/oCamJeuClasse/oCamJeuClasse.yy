@@ -25,8 +25,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "Classe",
+    "path": "folders/Objets/Classe.yy",
   },
   "resourceVersion": "1.0",
   "name": "oCamJeuClasse",

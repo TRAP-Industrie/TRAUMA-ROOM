@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "Drogue",
+    "path": "folders/Objets/Drogue.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_shootD1",
