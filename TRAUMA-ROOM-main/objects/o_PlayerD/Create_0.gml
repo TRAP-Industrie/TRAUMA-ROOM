@@ -11,3 +11,5 @@ frequency = 20;
 // Etat
 
 global.pdv = 3;
+
+alarm[1] =30*60;

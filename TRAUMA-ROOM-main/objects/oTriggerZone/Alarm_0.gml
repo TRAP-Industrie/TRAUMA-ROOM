@@ -16,4 +16,4 @@ if(_spawn == 1)
 	var _xspawn = 320+8;
 }
 instance_create_layer(_xspawn,10,"Instances",oBoulesPapiers);
-alarm[1] = 60; 
+alarm[1] = 40; 
