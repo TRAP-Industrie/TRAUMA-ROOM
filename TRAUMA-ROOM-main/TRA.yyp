@@ -3,6 +3,7 @@
     {"id":{"name":"sbackgroundD1","path":"sprites/sbackgroundD1/sbackgroundD1.yy",},"order":3,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"oGoClasse","path":"objects/oGoClasse/oGoClasse.yy",},"order":0,},
+    {"id":{"name":"oCamDaron","path":"objects/oCamDaron/oCamDaron.yy",},"order":3,},
     {"id":{"name":"sTriggerZone","path":"sprites/sTriggerZone/sTriggerZone.yy",},"order":11,},
     {"id":{"name":"sBoulesPapier","path":"sprites/sBoulesPapier/sBoulesPapier.yy",},"order":12,},
     {"id":{"name":"oBoulesPapiers","path":"objects/oBoulesPapiers/oBoulesPapiers.yy",},"order":0,},

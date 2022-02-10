@@ -1,3 +1,12 @@
+if(invulnarability != 120 && invulnarability >=0)
+{
+	invulnarability -= 1;
+}else if(invulnarability <=0)
+{
+	invulnarability = 120;
+}
+
+
 if(global.power = false)
 {
 	if(oPlayer.x - x > 0)
