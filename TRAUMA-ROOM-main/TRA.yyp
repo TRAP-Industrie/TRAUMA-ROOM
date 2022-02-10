@@ -27,6 +27,7 @@
     {"id":{"name":"path_enemiesD1","path":"paths/path_enemiesD1/path_enemiesD1.yy",},"order":0,},
     {"id":{"name":"sGoDaron","path":"sprites/sGoDaron/sGoDaron.yy",},"order":17,},
     {"id":{"name":"EnnemyCollision","path":"scripts/EnnemyCollision/EnnemyCollision.yy",},"order":1,},
+    {"id":{"name":"sPlayerWalk","path":"sprites/sPlayerWalk/sPlayerWalk.yy",},"order":20,},
     {"id":{"name":"rJeuPacMan4","path":"rooms/rJeuPacMan4/rJeuPacMan4.yy",},"order":6,},
     {"id":{"name":"s_enemiesD1","path":"sprites/s_enemiesD1/s_enemiesD1.yy",},"order":9,},
     {"id":{"name":"s_enemiesD","path":"sprites/s_enemiesD/s_enemiesD.yy",},"order":8,},
@@ -57,6 +58,7 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
+  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -98,7 +100,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.1.1.610",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "TRA",

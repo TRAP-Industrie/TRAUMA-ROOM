@@ -39,4 +39,20 @@ if(room == rRoom)
 
 #endregion
 
+#region player's animations
+
+if(hsp != 0) image_xscale = -sign(hsp) ;
+if(room == rRoom)
+{
+	if(hsp != 0)
+	{
+		sprite_index = sPlayerWalk;
+	}else
+	{
+		sprite_index = sPlayer;
+	}
+}
+
+#endregion
+
 PlayerCollision();

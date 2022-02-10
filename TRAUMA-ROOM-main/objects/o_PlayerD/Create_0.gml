@@ -6,7 +6,7 @@ obj_Color = c_red;
 // Tirs
 
 is_firing = false;
-frequency = 25;
+frequency = 20;
 
 // Etat
 

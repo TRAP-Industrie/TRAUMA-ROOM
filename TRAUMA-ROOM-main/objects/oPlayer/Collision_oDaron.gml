@@ -1,6 +1,6 @@
 if(global.power == true)
 {
-	global.power = false;
+	
 	if(global.DaronLife==0)
 	{
 		with(other)
