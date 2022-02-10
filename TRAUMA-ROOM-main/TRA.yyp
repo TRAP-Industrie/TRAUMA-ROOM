@@ -34,6 +34,7 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"oPowerUp","path":"objects/oPowerUp/oPowerUp.yy",},"order":2,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"sRoom","path":"sprites/sRoom/sRoom.yy",},"order":19,},
     {"id":{"name":"oDaron","path":"objects/oDaron/oDaron.yy",},"order":1,},
     {"id":{"name":"o_enemiesD1","path":"objects/o_enemiesD1/o_enemiesD1.yy",},"order":1,},
     {"id":{"name":"sDaron","path":"sprites/sDaron/sDaron.yy",},"order":14,},
