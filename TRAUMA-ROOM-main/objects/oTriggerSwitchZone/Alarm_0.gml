@@ -1,1 +1,0 @@
-instance_create_layer(global.spawnX,global.spawnY,"Instances",oDaron);
