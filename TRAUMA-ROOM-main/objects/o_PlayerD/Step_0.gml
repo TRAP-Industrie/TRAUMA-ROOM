@@ -39,6 +39,8 @@ if(obj_Alpha > 0) {
 	obj_Alpha -= 0.03
 }
 
-if (hp <= 0) {
-	instance_destroy()
+// Game Over
+
+if(global.pdv <= 0){
+	game_restart()
 }

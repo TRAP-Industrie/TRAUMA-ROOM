@@ -8,6 +8,6 @@ obj_Color = c_red;
 is_firing = false;
 frequency = 20;
 
-// Caractéristiques
+// Etat
 
-hp = 3;
+global.pdv = 3;
